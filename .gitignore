@@ -1,0 +1,45 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# CMake
+CMakeLists.txt.user
+CMakeFiles/
+CMakeCache.txt
+*.cmake
+*.make
+*.ninja
+*.out
+*.o
+*.a
+*.so
+*.dll
+*.exe
+*.lib
+*.pdb
+*.idb
+
+# Build directories
+/build/
+bin/
+lib/
+out/
+Debug/
+Release/
+RelWithDebInfo/
+MinSizeRel/
+
+# IDE specific files
+*.code-workspace
+.idea/
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
